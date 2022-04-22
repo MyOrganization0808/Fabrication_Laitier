@@ -1,0 +1,13 @@
+Gestion de Station 
+
+*Base : - nom database : station 
+        - Tables : _ Admin  
+                   _ Pompiste
+                   _ Carburant
+                   _ Details_Carburants
+
+*Metier : - verifier_Admin
+          - verifier_Pompiste
+          - insert_Pompiste 
+          - crud
+  
